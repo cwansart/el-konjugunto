@@ -1,0 +1,12 @@
+l		-> Label
+le	-> LineEdit
+pb	-> PushButton
+rb	-> RadioButton
+s		-> SLOT
+sl	-> StringList
+ll	-> List<Label>
+lle	-> List<LineEdit>
+lrb	-> List<RadioButton>
+cb	-> ComboBox
+gb	-> GroupBox
+sa	-> ScrollArea

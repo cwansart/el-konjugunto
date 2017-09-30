@@ -1,0 +1,14 @@
+### ToDoList for C++- and Qt-Files ###
+- set default font "sans" (I think, this is defaut because there was no font type set)
+- add a copyright in footer of every window (e.g. "Copyright by BluePanel" or "Powered by BluePanel" and link BluePanel to http://bluepanel.de)
+- add event for buttons (push buttons when focused with the enter-key)
+- set autofocus option for next and confirm buttons
+- set autofocus option for the first textfield in "Übungsabteilung" and if the enter key was pushed focus the next textfield
+- display statistics in main menu (below the choice of time)
+- add strings for buttons, etc. (to add language support - German and English)
+- add translation of verbs (German and English)
+- add options "import vocabulary" and "export vocabulary"
+- replace gridLayout in login by QVBoxlayout and QHBoxLayout (alsmost done)
+
+### ToDoList for SQLite ###
+- add translation of verbs (German and English)
